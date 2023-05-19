@@ -1,5 +1,6 @@
 # 💫 About Me:
-Greetings! Thanks for visiting my GitHub profile! I'm Aman Kumar, a passionate MERN stack developer committed to creating remarkable web experiences. Equipped with a solid background in JavaScript, my expertise lies in crafting feature-rich applications using the MERN (MongoDB, Express, React, Node.js) stack. I excel in agile environments and prioritize clean code, seamless communication, and perpetual growth. Please feel free to explore my repositories, and don't hesitate to get in touch if you have any inquiries or potential opportunities for collaboration. Together, let's embark on an extraordinary journey of building amazing things!
+Thanks for visiting my GitHub profile! 
+I'm Aman Kumar, a passionate MERN stack developer committed to creating remarkable web experiences. Equipped with a solid background in JavaScript, my expertise lies in crafting feature-rich applications using the MERN (MongoDB, Express, React, Node.js) stack. I excel in agile environments and prioritize clean code, seamless communication, and perpetual growth. Please feel free to explore my repositories, and don't hesitate to get in touch if you have any inquiries or potential opportunities for collaboration. Together, let's embark on an extraordinary journey of building amazing things!
 
 
 ## 🌐 Socials:
